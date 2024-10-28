@@ -1,4 +1,8 @@
-<h3 align="center">👋 Hello, I'm Ventiator!</h3>
+<h3 align="center" style="color:red;">🚫 Error 404: Motivation Not Found.</h3>
+<p align="center">Please reboot your brain and refresh the page.</p>
+<hr style="width:50%; margin: auto;" />
+
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3776db33-a0ee-49c3-a1de-84c27e44de47" alt="mario-working" width="800" height="400" />
