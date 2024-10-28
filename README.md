@@ -1,6 +1,9 @@
 <h3 align="center">👋 Hello, I'm Ventiator!</h3>
 
-![mario-working](https://github.com/user-attachments/assets/3776db33-a0ee-49c3-a1de-84c27e44de47)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3776db33-a0ee-49c3-a1de-84c27e44de47" alt="mario-working" width="800" height="400" />
+</p>
+
 
 <h3 align="center"></h3>
 <h3 align="center"></h3>
