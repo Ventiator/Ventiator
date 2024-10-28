@@ -1,12 +1,102 @@
-Hey I am Ventiator
+<h3 align="center">👋 Hello, I'm Ventiator!</h3>
 
-![mario-working](https://github.com/user-attachments/assets/2f13da76-5059-41cd-b67a-24b0a9398aae)
+![mario-working](https://github.com/user-attachments/assets/3776db33-a0ee-49c3-a1de-84c27e44de47)
 
-![](https://komarev.com/ghpvc/?username=Ventiator)
+<h3 align="center"></h3>
+<h3 align="center"></h3>
+<h3 align="center">Languages and Tools</h3>
+<h3 align="center"></h3>
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" />
+        <br>Flutter
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="48" height="48" alt="Dart" />
+        <br>Dart
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" />
+        <br>Firebase
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite" />
+        <br>SQLite
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+        <br>HTML5
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
+        <br>CSS
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
+        <br>Bootstrap
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+        <br>Node.js
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+        <br>MongoDB
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+        <br>MySQL
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+        <br>Git
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
+        <br>GitHub
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="48" height="48" alt="Android Studio" />
+        <br>Android Studio
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
+        <br>VS Code
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="48" height="48" alt="Windows" />
+        <br>Windows
+      </td>
+    </tr>
+  </table>
+</p>
 
-- 📱 Flutter addict: Crafting stunning apps with Dart & Flutter 💙
+<h3 align="center"></h3>
+<h3 align="center"></h3>
 
-- ⌨️ Fun fact: I spend approximately 8 hours coding every day! 💻
 
 
-![github-contribution-grid-snake](https://github.com/user-attachments/assets/1d578160-325f-4251-a96e-34fa6eee5b8f)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ventiator" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <strong>📱 Flutter addict:</strong> Crafting stunning apps with Dart & Flutter 💙
+</p>
+
+<p align="center">
+  <strong>⌨️ Fun fact:</strong> I spend approximately 8 hours coding every day! 💻
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1d578160-325f-4251-a96e-34fa6eee5b8f" alt="github-contribution-grid-snake" />
+</p>
