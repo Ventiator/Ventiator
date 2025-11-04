@@ -96,13 +96,6 @@
   <img src="https://komarev.com/ghpvc/?username=Ventiator" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <strong>📱 Flutter addict:</strong> Crafting stunning apps with Dart & Flutter 💙
-</p>
-
-<p align="center">
-  <strong>⌨️ Fun fact:</strong> I spend approximately 8 hours coding every day! 💻
-</p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1d578160-325f-4251-a96e-34fa6eee5b8f" alt="github-contribution-grid-snake" />
